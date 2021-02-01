@@ -1,6 +1,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;1,600;1,800&display=swap'); */
 html{
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 *, *::before *::after{
