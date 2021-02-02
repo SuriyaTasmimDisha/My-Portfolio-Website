@@ -256,6 +256,10 @@ html{
         font-size: 1rem;
     }
 
+    .style-text{
+        font-size: 1rem;
+    }
+
     .section-title{
         font-size: 2rem;
         letter-spacing: 16px;
