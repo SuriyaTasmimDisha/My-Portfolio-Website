@@ -104,6 +104,7 @@ html{
 }
 
 #about{
+    min-height: 100vh;
     padding-bottom: 10%;
 }
 
@@ -130,6 +131,7 @@ html{
 }
 
 #projects{
+    min-height: 100vh;
     background-color: #ffd8d8;
 }
 
@@ -171,6 +173,7 @@ html{
 }
 
 #contact-me{
+    min-height: 100vh;
     padding-bottom: 3%;
 }
 
@@ -201,7 +204,8 @@ html{
     border: 1px solid #7d0633;
 }
 
-#footer{
+#footer-style{
+    min-height: 20vh;
     background-color: #ffd8d8;
 }
 
@@ -213,21 +217,21 @@ html{
     padding-bottom: 2rem;
 }
 
-#footer i{
+#footer-style i{
     padding: 2rem 0.5rem;
     color: whitesmoke;
     transition: all 500ms ease;
 }
 
-#footer .fb-style:hover{
+#footer-style .fb-style:hover{
     color: #3b5998;
 }
 
-#footer .github-style:hover{
+#footer-style .github-style:hover{
     color: #211F1F;
 }
 
-#footer .linkedin-style:hover{
+#footer-style .linkedin-style:hover{
     color: #0e76a8;
 }
 
@@ -248,8 +252,8 @@ html{
     }
 
     #about img{
-        max-width: 18rem;
-        height: 18rem;
+        max-width: 16rem;
+        height: 16rem;
     }
 
     #about p{
