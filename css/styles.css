@@ -54,8 +54,9 @@ html{
 }
 
 #home{
+    min-height: 81.5vh;
     background-color: #ffd8d8;
-    padding: 2% 3rem 7.5%;
+    padding: 2% 3rem 3.5%;
 }
 
 #home h3{
@@ -243,7 +244,7 @@ html{
 
     .avatar{
         max-width: 20rem;
-        height: 25rem;
+        height: 22rem;
     }
 
     #about img{
