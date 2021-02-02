@@ -247,6 +247,10 @@ html{
 }
 
 @media (max-width:480px){
+    #home h1{
+        font-size: 3rem;
+    }
+    
     .avatar{
         max-width: 22rem;
     }
