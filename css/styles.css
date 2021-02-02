@@ -243,6 +243,7 @@ html{
 
     .avatar{
         max-width: 20rem;
+        height: 25rem;
     }
 
     #about img{
