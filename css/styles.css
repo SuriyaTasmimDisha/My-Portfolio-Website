@@ -32,10 +32,6 @@ html{
     text-shadow: 2px 2px 20px #cd5d7d;
 }
 
-.mr-nav{
-    margin-right: 48.5%;
-}
-
 .main-menu .navbar-nav{
     padding: 1rem 2rem;
 }
@@ -234,12 +230,6 @@ html{
     color: #0e76a8;
 }
 
-/* @media(min-width:1080px){
-    .mr-nav{
-        margin-right: auto;
-    }
-} */
-
 @media (max-width:992px){
     .form-style{
         width: 70%;
@@ -250,7 +240,7 @@ html{
     #home h1{
         font-size: 3rem;
     }
-    
+
     .avatar{
         max-width: 22rem;
     }
