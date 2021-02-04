@@ -7,7 +7,7 @@ html{
     box-sizing: inherit;
 }
 
-#header{
+#main-menu{
     background-color: #ffd8d8;
 }
 
@@ -18,7 +18,7 @@ html{
     letter-spacing: 25px;
 }
 
-.main-menu .navbar .navbar-brand{
+ .navbar .navbar-brand{
     padding-left: 3rem;
     font-family:'Chivo', sans-serif;
     font-weight: 900;
@@ -27,16 +27,16 @@ html{
     transition: all 500ms ease;
 }
 
-.main-menu .navbar-brand:hover{
+ .navbar-brand:hover{
     letter-spacing: 5px;
     text-shadow: 2px 2px 20px #cd5d7d;
 }
 
-.main-menu .navbar-nav{
+ .navbar-nav{
     padding: 1rem 2rem;
 }
 
-.main-menu .navbar-nav .nav-item .nav-link{
+ .navbar-nav .nav-item .nav-link{
     font-family: 'Roboto Slab', serif;
     font-weight: 700;
     font-size: 1.5rem;
@@ -47,7 +47,7 @@ html{
     opacity: 0.6;
 }
 
-.main-menu .navbar-nav .nav-item .nav-link:hover{
+ .navbar-nav .nav-item .nav-link:hover{
     text-shadow: 0 0 10px #ea97ad;
     text-decoration: underline 3px solid #7d0633;
     opacity: 1;
