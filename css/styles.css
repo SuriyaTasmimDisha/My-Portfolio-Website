@@ -159,7 +159,7 @@ html{
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
     font-size: 1.2rem;
-    text-shadow: 0 0 10px #cd5d7d;
+    text-shadow: 0 0 2px #cd5d7d;
 }
 
 #projects img:hover{
