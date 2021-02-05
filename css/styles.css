@@ -127,7 +127,7 @@ html{
 #about img{
     border-radius: 50%;
     margin-top: 20%;
-    height: 22rem;
+    max-height: 22rem;
 }
 
 #projects{
